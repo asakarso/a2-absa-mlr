@@ -1,0 +1,6 @@
+Aspek,Accuracy (Tuned),Accuracy (Default),Precision (Tuned),Precision (Default),Recall (Tuned),Recall (Default),F1 (Tuned),F1 (Default)
+Bisnis,0.7150,0.5550,0.7625,0.7515,0.7150,0.5550,0.7257,0.5609
+Fitur,0.6933,0.5033,0.7743,0.7570,0.6933,0.5033,0.7128,0.5347
+Kebermanfaatan,0.8417,0.5017,0.9113,0.9003,0.8417,0.5017,0.8713,0.5783
+Layanan,0.6917,0.4233,0.8041,0.7856,0.6917,0.4233,0.7167,0.4324
+Non Aspek,0.5317,0.5250,0.7047,0.7046,0.5317,0.5250,0.5534,0.5520
